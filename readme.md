@@ -59,7 +59,7 @@ FadeOutAndRemove::create(1.0f);
 
 Combined animations
 ----
-__FadeInEx__
+__FadeInEx__<Br>
 ![fadein](img/fadein_with_moveby.gif)
 ```c++
 FadeInEx::createWithMoveBy(1.0f, FADEX_DOWN(20));
@@ -72,7 +72,7 @@ FadeInEx::createWithScaleBy(1.0f, 2);
 // ScaleTo
 FadeInEx::createWithScaleTo(1.0f, 2);
 ```
-__FadeOutEx__
+__FadeOutEx__<Br>
 ![fadeout](img/fadeout_with_moveby.gif)
 ```c++
 FadeOutEx::createWithMoveBy(1.0f, FADEX_DOWN(20));
